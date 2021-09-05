@@ -47,6 +47,6 @@ O objetivo do projeto é construir uma API restfull conectada ao banco NoSQL Fir
 
 ## 📕 License
 
-This project is under [MIT license](https://github.com/devscrud-api/blob/main/LICENSE)
+This project is under [MIT license](https://github.com/juliocesarfs/devscrud-api/blob/main/LICENSE)
 
 Made by [*Júlio César*](https://github.com/juliocesarfs) 🚀
